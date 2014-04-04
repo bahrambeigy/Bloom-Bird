@@ -10,7 +10,7 @@ The Bloom-Bird has an extra Bloom Filter feature which helps its Forwarding Info
 
 Installation:
 
-./configure [--enable-ipv6]
+./configure [--enable-ipv6] --enable-debug --prefix=/usr --sysconfdir=/etc --localstatedir=/var
 
 make && make install
 
