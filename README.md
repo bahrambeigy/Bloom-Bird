@@ -14,3 +14,7 @@ Installation:
 
 make && make install
 
+
+=====================
+For more information please checkout Bloom-Bird official webpage:
+http://www.razi.ac.ir/~mahmadi/bloom-bird
