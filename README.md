@@ -17,5 +17,5 @@ make && make install
 
 =====================
 Related Paper:
-[IEEE Xplore]: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6999678
-[ResearchGate]: https://www.researchgate.net/publication/267514772_Bloom-Bird_A_Scalable_Open_Source_Router_Based_on_Bloom_Filter
+- IEEE Xplore: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6999678
+- ResearchGate: https://www.researchgate.net/publication/267514772_Bloom-Bird_A_Scalable_Open_Source_Router_Based_on_Bloom_Filter
