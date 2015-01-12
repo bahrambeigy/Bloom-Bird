@@ -16,5 +16,6 @@ make && make install
 
 
 =====================
-For more information please checkout Bloom-Bird official webpage:
-http://www.razi.ac.ir/~mahmadi/bloom-bird
+Related Paper:
+[IEEE Xplore]: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6999678
+[ResearchGate]: https://www.researchgate.net/publication/267514772_Bloom-Bird_A_Scalable_Open_Source_Router_Based_on_Bloom_Filter
